@@ -1,4 +1,4 @@
-package org.example.SOLID.lishkow_substitution_principle;
+package org.example.SOLID.lishkow_substitution_principle.bad_code;
 
 public class LiskovSubtitutionPrinciple {
     public static void main(String[] args) throws Exception{
